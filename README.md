@@ -29,7 +29,7 @@ Navigate to https://beta-smartui.lambdatest.com/
 
 1. Create a project with name - Demo  
 ![image](https://user-images.githubusercontent.com/97744525/161967674-a0d6668c-9079-4f08-b06e-c9132ef1b801.png)
-2. Run command ```  mvn test -D suite=visual_basine.xml  ``` 
+2. Run command ```  mvn test -D suite=visual_baseline.xml  ``` 
 3. run command ```  mvn test -D suite=visualchangebuild.xml ```
 
 ## Note- Above Step 1 & 2 in Visual UI test needs to be executed only onc's i.e to create the project and run the baseline.
